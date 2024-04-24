@@ -1,0 +1,15 @@
+---
+- my students :
+  - name: anil
+    phone: 9999999
+    address: ha
+
+  - name: sunil
+    phone: 000000
+    address: na
+
+  - name: rahul
+    phone: 88888
+    address: kl
+
+
